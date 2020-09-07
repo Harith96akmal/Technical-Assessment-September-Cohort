@@ -1,0 +1,17 @@
+Function overriding is redefining the base class in the derived class with the same parameters and return type while function overloading is putting multiple definition in a function with different parameters.
+
+Example of function overriding:
+Class base
+{
+public:
+	void one() {}
+}
+Class derived
+{
+public:
+	void one() {} //override
+}
+
+Example of function overloading:
+void base (int one);
+void base (int one, int two);

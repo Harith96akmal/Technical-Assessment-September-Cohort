@@ -1,0 +1,1 @@
+Incorrect. The MMU translates the Virtual address into the Physical address by mapping them accordingly.

@@ -1,0 +1,14 @@
+a.	The call functions cannot run as they are not placed in the main function.
+
+b.	The call functions must be placed in the main() function in order for it to run successfully. For instance:
+
+public void main()
+{
+Fish fish = new Fish();
+fish.swim(); // works
+fish.walk(); // exception
+fish.fly(); // exception
+Bird bird = new Bird();
+bird.fly(); // works
+bird.swim(); //exception
+}

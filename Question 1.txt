@@ -1,0 +1,24 @@
+
+package question1;
+
+
+public void findJumpingWays(N)
+{
+	while
+	{
+		way1 = way1 +1;
+		if (way1 >0)
+		way1++;
+		way2 = way +2;
+		if (way2 >1)
+		way2++;
+		N = way1 + way2;
+	};
+	System.out.println(N);
+}
+
+void main()
+{
+	findJumpingWays(N);
+}
+

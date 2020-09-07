@@ -1,0 +1,1 @@
+Correct. All the data in the child is copied from the data in the parent and separated after the fork() function, which would later be recombined.

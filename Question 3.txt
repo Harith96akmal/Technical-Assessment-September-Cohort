@@ -1,0 +1,46 @@
+findWordsWithFrequency(N, wordlist)
+{
+	String wordlist[] = {“zero, “real”, “name, “zero”, “help”, “hello”, “real”, “none”, “real”}
+
+	while (wordlist[] = “zero”)
+	{
+		N++;
+	}
+	if (N == 2)
+		return wordlist[] = “zero”; else return wordlist[] = 0;
+
+	while (wordlist[] = “real”)
+	{
+		N++;
+	}
+	if (N == 2)
+		return wordlist[] = “real”; else return wordlist[] = 0;
+
+	while (wordlist[] = “name”)
+	{
+		N++;
+	}
+	if (N == 2)
+		return wordlist[] = “name”; else return wordlist[] = 0;
+
+	while (wordlist[] = “help”)
+	{
+		N++;
+	}
+	if (N == 2)
+		return wordlist[] = “help”; else return wordlist[] = 0;
+
+	while (wordlist[] = “hello”)
+	{
+		N++;
+	}
+	if (N == 2)
+		return wordlist[] = “hello”; else return wordlist[] = 0;
+
+	while (wordlist[] = “none”)
+	{
+		N++;
+	}
+	if (N == 2)
+		return wordlist[] = “none”; else return wordlist[] = 0;
+}

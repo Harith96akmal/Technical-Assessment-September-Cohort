@@ -1,0 +1,1 @@
+Incorrect. Threads are located in the same process and therefore can share the same memory space, unlike processes which are independent of one another.
