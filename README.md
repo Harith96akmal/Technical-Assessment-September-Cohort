@@ -1,2 +1,3 @@
 # Technical-Assessment-September-Cohort
-Questions 1-9
+Name : Harith Akmal bin Pami
+Email : har96yu6@gmail.com
